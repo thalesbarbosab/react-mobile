@@ -1,0 +1,8 @@
+C:\ProjetosReact\prova4avd\mobile\node_modules\jest-haste-map\build
+
+var sharedBlacklist = [
+  /node_modules[\/\\]react[\/\\]dist[\/\\].*/,
+  /website\/node_modules\/.*/,
+  /heapCapture\/bundle\.js/,
+  /.\/_tests_\/./
+];

@@ -1,0 +1,19 @@
+https://docs.rocketseat.dev/
+
+Linux
+Adb Devices
+https://www.edivaldobrito.com.br/adb-e-fastboot-no-ubuntu/
+
+
+
+Comandos:
+
+yarn add react-navigation react-navigation-stack react-native-gesture-handler
+yarn add react-navigation-tabs 
+yarn add react-native-reanimated
+
+
+yarn add styled-components
+yarn add react-native-vector-icons
+
+yarn add axios
